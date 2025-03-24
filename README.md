@@ -1,2 +1,3 @@
-# manuscripts
-Repository for PDFs of published and pre-print manuscripts
+# Published and pre-print manuscripts
+
+
